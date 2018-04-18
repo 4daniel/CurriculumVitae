@@ -1,10 +1,10 @@
 # Jorge Alberto Díaz Orozco (Akiel)
 
-| e-mail  | akiel@aleph.engineering |
-| twitter | @jadolg91               |
-| phone   | +53 54831077            |
-|-|-|
+**e-mail:** akiel@aleph.engineering
 
+**twitter:** @jadolg91
+
+**phone:** +53 54831077
 
 ## Education
 
