@@ -2,7 +2,7 @@
 
 **e-mail:** akiel@aleph.engineering
 
-**twitter:** @jadolg91
+**twitter:** [@jadolg91](https://twitter.com/jadolg91)
 
 **phone:** +53 54831077
 
