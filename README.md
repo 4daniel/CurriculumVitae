@@ -16,6 +16,7 @@
 ## Experience
 
 * **Feasibility Study for LEGO recognition machine (2017-2018 [aleph].engineering-MeineSpielzeugkiste):**
+
 Using Computer Vision, Python and Tensorflow, developed a feasibility study to demonstrate that a machine to recognize specific LEGO sets can be built using machine learning.
 
 * **Documents and cases management system Papyrus Case (2015-2017 DATYS):**
