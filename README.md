@@ -34,7 +34,7 @@ As a student, I worked in the development of the Cuban GNU/Linux distribution NO
 I love Open Source. I try to open as much of my work as possible as my GitHub [profile](https://github.com/jadolg) shows. I contribute to Projects like [Rocket.Chat](http://rocket.chat) and have my own [Rocket.Chat API wrapper](https://github.com/jadolg/rocketchat_API) written in Python. I also contribute to the Cuban Conference about Free and Open Source Software [CubaConf](http://cubaconf.org/).
 
 * **Programming Languages**
-  * **Python:** This is my first class language. I have more than 8 years of experience using Python and I'm improving my skills on it every day. I have used Django and Flask frameworks for years and can code in Python 2 and 3 both. 
+  * **Python:** This is my first class language. I have more than 8 years of experience using Python and I'm improving my skills on it every day. I have used Django and Flask frameworks for years and can code in Python 2 and 3 both. Some of my work is available on [PyPi](https://pypi.org/user/jadolg/)
 
   * **Java:** I've used java for Desktop applications development using swing, and to write Android applications. I can write and deploy java applications from scratch and can learn new java skills very fast.
 
