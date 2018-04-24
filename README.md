@@ -43,7 +43,7 @@ I love Open Source. I try to open as much of my work as possible as my GitHub [p
   * Also know **C**, **C++**, **JavaScript**, **Groovy**, **Kotlin**
 
 * **Other Technologies**
-  * **Android:** I have developed several apps for Android using native technologies. I have used both Java and Kotlin.
+  * **Android:** I have developed several apps for Android using native technologies. I have used both Java and Kotlin. These are some of my deployed [applications](https://play.google.com/store/apps/collection/cluster?clp=igMwChkKEzcyMjY4MDkyMDE5MTczNjk3MTgQCBgDEhEKC3VjaS51Y2ludGxtEAEYAxgB:S:ANO1ljIDeYE)
   * **GNU/Linux:** My development environment is always linux-based. I've being working with GNU/Linux for more than 9 years and prefer Debian based systems like Ubuntu.
   * **Docker:** Docker reduces the gap between the developer environment and the staging and production scenario. I've used Docker to test and deploy software and it's a technology I use almost everyday. I'm also familiar with docker-compose.
   * **git:** I use git everyday. I could not be able to work without it. Version control is very important to me and I believe in [this](http://chris.beams.io/posts/git-commit/) way to do commits.
