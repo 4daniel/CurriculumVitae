@@ -2,7 +2,7 @@
 
 **e-mail:** akiel@aleph.engineering
 
-**twitter:** [@jadolg91](https://twitter.com/jadolg91)
+**twitter:** [@jadolg91](https://twitter.com/jadolg9)
 
 **phone:** +53 54831077
 
@@ -54,3 +54,7 @@ I love Open Source. I try to open as much of my work as possible as my GitHub [p
 * Human Languages:
   * Spanish (native speaker)
   * English
+
+* Blog Posts:
+  * Blog of the Free Software Community of the University of Informatic Science (Universidad de las Ciencias Informáticas) [humanOS](http://humanos.uci.cu/author/akiel)
+  * [The Practical Dev](https://dev.to/jadolg)
