@@ -17,7 +17,7 @@
 
 * **Feasibility Study for LEGO recognition machine (2017-2018 [aleph].engineering-MeineSpielzeugkiste):**
 
-Using Computer Vision, Python and Tensorflow, developed a feasibility study to demonstrate that a machine to recognize specific LEGO sets can be built using machine learning.
+Using Computer Vision, Python and Tensorflow, developed a feasibility study to demonstrate that a machine to recognize specific LEGO sets can be built using machine learning. This study was made by 2 Cuban engineers and managed by 2 German engineers.
 
 * **Documents and cases management system Papyrus Case (2015-2017 DATYS):**
 
@@ -25,7 +25,7 @@ During two years I worked with a team of 10-15 highly trained engineers in the d
 
 * **NOVA, the Cuban GNU/Linux (2012-2015 Universidad de las ciencias informáticas):**
 
-As a student, I worked in the development of the Cuban GNU/Linux distribution NOVA. During three years I developed multiple functionalities for NOVA, writing mainly in **C**, **C++**, **Python** and **Bash**.
+As a student, I worked in the development of the Cuban GNU/Linux distribution NOVA. During three years I developed multiple functionalities for NOVA, writing mainly in **C**, **C++**, **Python** and **Bash**. I was part of a group of 30+ engineers and students planning and programming the system.
 
 ## Technical Experience
 
