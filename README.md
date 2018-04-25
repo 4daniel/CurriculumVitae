@@ -1,60 +1,57 @@
-# Jorge Alberto Díaz Orozco (Akiel)
+# Daniel Pérez López (@daniel)
 
-**e-mail:** akiel@aleph.engineering
+**e-mail:** daniel@aleph.engineering
 
-**twitter:** [@jadolg91](https://twitter.com/jadolg9)
-
-**phone:** +53 54831077
+**phone:** +53 53325611
 
 ## Education
 
-* 2010-2015
-**Informatic Sciences Engineering**; Universidad de las Ciencias Informáticas (Havana, Cuba)
-*Thesis title: Proxy communication system for Android*
+* 2003-2008
+**ISPJAE (CUJAE)**; Institute of technology Jose Antonio Echeverria (Havana, Cuba)
+*Thesis title: Graph usages in handwriting pattern recognition*
 
 
 ## Experience
 
-* **Feasibility Study for LEGO recognition machine (2017-2018 [aleph].engineering-MeineSpielzeugkiste):**
+* **MiFirma. Online Digital Signature(2015-2018 Isa Cuba-Isa Uruguay): 20 engineers, 2 project managers**
 
-Using Computer Vision, Python and Tensorflow, developed a feasibility study to demonstrate that a machine to recognize specific LEGO sets can be built using machine learning. This study was made by 2 Cuban engineers and managed by 2 German engineers.
+Online platform for digital signature applied in Uruguay Companies. Every user of the system has the possibility to upload documents, apply it digital signatures and request for other users to sign the document, notifications, reminders and other functionalities. This platform was made using Java Spring Framework and Angular JS.
 
-* **Documents and cases management system Papyrus Case (2015-2017 DATYS):**
+* **ROSDE. Enterprise Development Services Platform (2015 Freelance-Guatemala ): 2 engineers, 1 project manager**
 
-During two years I worked with a team of 10-15 highly trained engineers in the development of this software. We used **Grails** framework to build the backend and **Angular** 1 on the frontend. I had the opportunity to use both **Team Foundation Server** and **GIT** as control version system and always used agile techniques to manage our team and projects. The platform was supposed to work with multiple databases in a very generic way, but at the time I left the project, only ORACLE database was implemented since it was the most known among the experts in the group. I also had the chance to work with **Docker** and loved the technology so much that I started teaching my coworkers about it. During this time the project was deployed in multiple Banks in Cuba and other important state institutions to help them manage their documents and workflow and it was actively maintained.
+[ROSDE website](https://rosde.mineco.gob.gt/) is dedicated to encourage enterprises productivity and competition between them by offering services through this website. This website Was made using C# ASP MVC 5 and jQuery.
 
-* **NOVA, the Cuban GNU/Linux (2012-2015 Universidad de las ciencias informáticas):**
+* **Integrated, Save the children ONG (2014 Freelance-Guatemala): 2 engineers, 1 project manager**
 
-As a student, I worked in the development of the Cuban GNU/Linux distribution NOVA. During three years I developed multiple functionalities for NOVA, writing mainly in **C**, **C++**, **Python** and **Bash**. I was part of a group of 30+ engineers and students planning and programming the system.
+Integrated is a internal project for the ONG organization Save The Children applied in Guatemala, to manage and to have stadistics about this organization's projects, campaigns, human resources, etc. Was made in C# ASP and jQuery.
+
+* **PSPowerTools, Plugins and panels for Adobe products (2014 Freelance-USA): 1 engineers, 1 project manager**
+
+Development of plugins for Adobe products like Photoshop and Illustrator made with Html5 and JS mainly, using an Adobe js library for developers to be able to integrate these plugins with the Adobe products, dedicated for designers. These plugins are in sale in the [PSPowertools website](http://www.pspowertools.com/).
+
+* **BIOMESYS AFIS platform, suite of services for identification w/ biometric features & identity record management(2012-215 Datys): 40 or more engineers, more than one departments involved**
+
+Worked specifically in BIOAPI, artifact of the whole platform, the main goal of this project was create a platform able to manage and communicate with biometric devices like fingerprint, palm, and face scanners and use it in differents applications, with the possibility to identify persons through the biometrics characteristics. This project and the applications involve are in production right now working for instance in the airport, in passports emission, in the civil registry, and also has been using in Latin American Countries like Nicaragua and Argentina. In this project was involve Datys and Cenatav, two of the majors Softwares company in Cuba, i worked in Datys in this project for 4 years, in Java, creating the “BIOAPI framework”, an standard to communicate with these biometric devices. The team work mainly with java and maven, javascript, and we used continuous integration, unit test using mockito, and Scrum. I also create a framework in javascript to communicate from web applications to the java platform and be able to use these biometric devices on the web.
 
 ## Technical Experience
 
-* **Open Source**
-
-I love Open Source. I try to open as much of my work as possible as my GitHub [profile](https://github.com/jadolg) shows. I contribute to Projects like [Rocket.Chat](http://rocket.chat) and have my own [Rocket.Chat API wrapper](https://github.com/jadolg/rocketchat_API) written in Python. I also contribute to the Cuban Conference about Free and Open Source Software [CubaConf](http://cubaconf.org/).
-
 * **Programming Languages**
-  * **Python:** This is my first class language. I have more than 8 years of experience using Python and I'm improving my skills on it every day. I have used Django and Flask frameworks for years and can code in Python 2 and 3 both. Some of my work is available on [PyPi](https://pypi.org/user/jadolg/)
+  * **Java:** This is my first class language. I have more than 8 years of experience using Java. I begin to work on it doing desktop applications using swing, also a little with applets at that time, and after that in relevant frameworks and projects that came up from java like Spring Framework(Spring Boot, Spring Data, Spring Session, Spring Security) in companion with tools like Maven, Ant, Sonar, Jenkins and test tools like Mockito.
 
-  * **Java:** I've used java for Desktop applications development using swing, and to write Android applications. I can write and deploy java applications from scratch and can learn new java skills very fast.
+  * **JavaScript:** This is also my first class language. I have been working in js since the beginning, I am able to do pure OOP javascript applications, later i was using jQuery in many cases and in present days i have been working with Node, using libraries like Express and LoopBack, Angular JS, Angular 5 and ReactJS.
 
-  * **GO:** GO or GOLANG is my newest tool. I am in love with this language and I'm wanting to start working with this professionally.
+  * **PHP:** I worked with pure PHP in the university doing web pages. After that i had the opportunity to work in a project using Laravel framework.
 
-  * Also know **C**, **C++**, **JavaScript**, **Groovy**, **Kotlin**
+  * **Ruby:** I worked with Ruby on Rails in two projects, websites for photographers in Spain, actually is not online.
 
 * **Other Technologies**
-  * **Android:** I have developed several apps for Android using native technologies. I have used both Java and Kotlin. These are some of my deployed [applications](https://play.google.com/store/apps/collection/cluster?clp=igMwChkKEzcyMjY4MDkyMDE5MTczNjk3MTgQCBgDEhEKC3VjaS51Y2ludGxtEAEYAxgB:S:ANO1ljIDeYE)
-  * **GNU/Linux:** My development environment is always linux-based. I've being working with GNU/Linux for more than 9 years and prefer Debian based systems like Ubuntu.
-  * **Docker:** Docker reduces the gap between the developer environment and the staging and production scenario. I've used Docker to test and deploy software and it's a technology I use almost everyday. I'm also familiar with docker-compose.
-  * **git:** I use git everyday. I could not be able to work without it. Version control is very important to me and I believe in [this](http://chris.beams.io/posts/git-commit/) way to do commits.
-  * **RaspberryPi, ESP8266 and other IoT related:** I'm passionate about IoT. I have developed projects with RaspberryPi and ESP8266 using mostly Python and Micropython.
+
+  * **Jenkins:** I use Jenkins for CI and continuos delivery hub in the projects.
+  * **Docker:** I use Docker to have a clean environment for testing and deploying in daily work.
+  * **Git:** Git is one of my daily based tool.
 
 ## Other Details
 
 * Human Languages:
   * Spanish (native speaker)
   * English
-
-* Blog Posts:
-  * Blog of the Free Software Community of the University of Informatic Science (Universidad de las Ciencias Informáticas) [humanOS](http://humanos.uci.cu/author/akiel)
-  * [The Practical Dev](https://dev.to/jadolg)
