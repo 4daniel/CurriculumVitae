@@ -7,7 +7,9 @@
 ## Education
 
 * 2003-2008
+
 **ISPJAE (CUJAE)**; Institute of technology Jose Antonio Echeverria (Havana, Cuba)
+
 *Thesis title: Graph usages in handwriting pattern recognition*
 
 
